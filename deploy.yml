@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: gcontainer
-        image: 
+        image: devops2018/tomcat
