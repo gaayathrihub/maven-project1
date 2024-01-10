@@ -13,7 +13,7 @@ margin-top:10px;
 }
 
 h1{
-font-size:45px;
+font-size:35px;
 color: blue;
     margin-top: -501px;
     
@@ -31,7 +31,7 @@ height:400px;
 <body>
 <div class="imgcontainer ">
 
-<img src="https://as2.ftcdn.net/v2/jpg/01/41/34/25/1000_F_141342526_URKC9HrOLjzXY18PycoS2ZTqdwFrv84G.jpg" width="1300" height="550">
+<img src="https://www.raepica.com/wp-content/uploads/2019/05/good-job.jpeg" width="1300" height="550">
 <div class="container">
 <h1>Successfully Deployed by Gayathri!!!!</h1>
 
