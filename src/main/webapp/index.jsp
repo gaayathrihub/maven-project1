@@ -13,7 +13,7 @@ margin-top:10px;
 }
 
 h1{
-font-size:35px;
+font-size:45px;
 color: blue;
     margin-top: -501px;
     
