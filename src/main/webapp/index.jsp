@@ -32,7 +32,7 @@ height:400px;
 <div class="imgcontainer ">
 <img src="https://as2.ftcdn.net/v2/jpg/01/41/34/25/1000_F_141342526_URKC9HrOLjzXY18PycoS2ZTqdwFrv84G.jpg" width="1300" height="550">
 <div class="container">
-<h2>Successfully Deployed Gayathri!!!!</h2>
+<h1>Successfully Deployed Gayathri!!!!</h1>
 
 </div>
 </div>
