@@ -30,10 +30,10 @@ height:400px;
 </style>
 <body>
 <div class="imgcontainer ">
-<h1>Successfully Deployed by Gayathri!!!!</h1>
+
 <img src="https://as2.ftcdn.net/v2/jpg/01/41/34/25/1000_F_141342526_URKC9HrOLjzXY18PycoS2ZTqdwFrv84G.jpg" width="1300" height="550">
 <div class="container">
-
+<h1>Successfully Deployed by Gayathri!!!!</h1>
 
 </div>
 </div>
