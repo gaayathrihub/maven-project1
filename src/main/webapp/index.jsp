@@ -15,7 +15,7 @@ margin-top:10px;
 h1{
 font-size:35px;
 color: yellow;
-    margin-top: -800px;
+    margin-top: -501px;
     
     width: 600px;
 }
