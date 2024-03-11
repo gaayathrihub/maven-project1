@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>gapp</finalName>
+    <finalName>devopsapp</finalName>
   </build>
 </project>
