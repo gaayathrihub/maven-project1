@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: gcontainer
-        image: tomcat:9-jdk17
+        image: tomcat:8.0
