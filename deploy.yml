@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: gcontainer
-        image: mailtog30docker/gtomcat:2.0
+        image: mailtog30docker/gtomcat:3.0
