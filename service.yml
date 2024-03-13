@@ -7,6 +7,6 @@ spec:
     ports:
      - targetPort: 8080
        port: 8080
-       nodePort: 31118
+       nodePort: 30108
     selector:
        app: gapplication
